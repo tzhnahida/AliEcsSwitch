@@ -1,0 +1,1 @@
+go build -trimpath -ldflags "-s -w" -v -o AliECSSwitch.exe

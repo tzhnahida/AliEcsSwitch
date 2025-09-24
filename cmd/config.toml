@@ -1,0 +1,10 @@
+[AccessKey]
+ id     = ""
+ secret = ""
+
+[ECS]
+ instance_id = ""
+ endpoint    = ""
+ region_id   = "cn-beijing"
+ stop_mode   = "StopCharging"
+ 
